@@ -1,4 +1,4 @@
-# Quad's Book of Papers
+# Book of Papers
 
 The purpose of this collection is to form a starting point from which Quad Engineering can base future conversations.
 
