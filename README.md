@@ -1,34 +1,34 @@
 # Book of Papers
 
-The purpose of this collection is to form a starting point from which Quad Engineering can base future conversations.
+The purpose of this collection is to form a starting point from which Engineering Teams can base future conversations.
 
 # Causality in Distributed Systems
 
 Vector Clocks are used to resolve siblings in Riak.
 
-* [Time, Clocks, and the Ordering of Events in a Distributed System - Leslie Lamport](https://raw.githubusercontent.com/Quad2/quad-papers/master/papers/time-clocks-and-the-ordering-of-events-in-a-distributed-system.pdf)
+* [Time, Clocks, and the Ordering of Events in a Distributed System - Leslie Lamport](https://raw.githubusercontent.com/ChristopherBiscardi/papers/master/papers/time-clocks-and-the-ordering-of-events-in-a-distributed-system.pdf)
   - Precursor to Vector Clocks
-* [Timestamps in Message-Passing Systems That Preserve the Partial Ordering - Colin J. Fidge](https://raw.githubusercontent.com/Quad2/quad-papers/master/papers/timestamps-in-message-passing-systems-that-preserve-the-partial-ordering.pdf)
+* [Timestamps in Message-Passing Systems That Preserve the Partial Ordering - Colin J. Fidge](https://raw.githubusercontent.com/ChristopherBiscardi/papers/master/papers/timestamps-in-message-passing-systems-that-preserve-the-partial-ordering.pdf)
   - Vector Clocks
 
 # Dynamo
-* [Dynamo: Amazon’s Highly Available Key-value Store](https://raw.githubusercontent.com/Quad2/quad-papers/master/papers/dynamo.pdf)
+* [Dynamo: Amazon’s Highly Available Key-value Store](https://raw.githubusercontent.com/ChristopherBiscardi/papers/master/papers/dynamo.pdf)
   - Riak, Cassandra, etc
 
 
 # Type Systems
 
-* [On Understanding Types, Data Abstraction, and Polymorphism - Luca Cardelli, Peter Wegner](https://raw.githubusercontent.com/Quad2/quad-papers/master/papers/on-understanding-types-data-abstraction-and-polymorphism.pdf)
+* [On Understanding Types, Data Abstraction, and Polymorphism - Luca Cardelli, Peter Wegner](https://raw.githubusercontent.com/ChristopherBiscardi/papers/master/papers/on-understanding-types-data-abstraction-and-polymorphism.pdf)
   - Covers a fairly large field. ADTs, Quantification, Type Inference, Typed λ-Calculus.
   
 # Concurrent Data Access
 
-* [There is no Fork: an Abstraction for Efﬁcient, Concurrent, and Concise Data Access](https://raw.githubusercontent.com/Quad2/quad-papers/master/papers/there-is-no-fork-an-abstraction-for-efficient-concurrent-and-concise-data-access)
+* [There is no Fork: an Abstraction for Efﬁcient, Concurrent, and Concise Data Access](https://raw.githubusercontent.com/ChristopherBiscardi/papers/master/papers/there-is-no-fork-an-abstraction-for-efficient-concurrent-and-concise-data-access)
   - Covers Haxl, A Facebook open source lib for concurrent data access and caching in Haskell
   
 # Recursion Schemes
 
-[Functional Programming with Bananas, Lenses, Envelopes and Barbed Wire](https://raw.githubusercontent.com/Quad2/quad-papers/master/papers/functional-programming-with-bananas-lenses-envelopes-and-barbed-wire.pdf)
+[Functional Programming with Bananas, Lenses, Envelopes and Barbed Wire](https://raw.githubusercontent.com/ChristopherBiscardi/papers/master/papers/functional-programming-with-bananas-lenses-envelopes-and-barbed-wire.pdf)
 
 ###### Quick Reference:
 <table border="1">
