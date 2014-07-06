@@ -11,6 +11,9 @@ Vector Clocks are used to resolve siblings in Riak.
 * [Timestamps in Message-Passing Systems That Preserve the Partial Ordering - Colin J. Fidge](https://raw.githubusercontent.com/ChristopherBiscardi/papers/master/papers/timestamps-in-message-passing-systems-that-preserve-the-partial-ordering.pdf)
   - Vector Clocks
 
+# Notes
+* [Notes on Distributed Systems](https://raw.githubusercontent.com/ChristopherBiscardi/papers/master/papers/notes-on-distributed-systems.pdf)
+
 # Dynamo
 * [Dynamo: Amazon’s Highly Available Key-value Store](https://raw.githubusercontent.com/ChristopherBiscardi/papers/master/papers/dynamo.pdf)
   - Riak, Cassandra, etc
