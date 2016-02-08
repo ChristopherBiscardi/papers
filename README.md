@@ -2,34 +2,37 @@
 
 The purpose of this collection is to form a starting point from which Engineering Teams can base future conversations.
 
-# Causality in Distributed Systems
+## Distributed Systems
 
-Vector Clocks are used to resolve siblings in Riak.
+### Causality in Distributed Systems
 
 * [Time, Clocks, and the Ordering of Events in a Distributed System - Leslie Lamport](https://raw.githubusercontent.com/ChristopherBiscardi/papers/master/papers/time-clocks-and-the-ordering-of-events-in-a-distributed-system.pdf)
   - Precursor to Vector Clocks
 * [Timestamps in Message-Passing Systems That Preserve the Partial Ordering - Colin J. Fidge](https://raw.githubusercontent.com/ChristopherBiscardi/papers/master/papers/timestamps-in-message-passing-systems-that-preserve-the-partial-ordering.pdf)
   - Vector Clocks
 
-# Notes
+### Notes
 * [Notes on Distributed Systems](https://raw.githubusercontent.com/ChristopherBiscardi/papers/master/papers/notes-on-distributed-systems.pdf)
 
-# Dynamo
+### Dynamo
 * [Dynamo: Amazon’s Highly Available Key-value Store](https://raw.githubusercontent.com/ChristopherBiscardi/papers/master/papers/dynamo.pdf)
   - Riak, Cassandra, etc
 
+## Data Processing
 
-# Type Systems
+* [MapReduce: Simplified Data Processing on Large Clusters](http://research.google.com/archive/mapreduce.html)
+
+## Type Systems
 
 * [On Understanding Types, Data Abstraction, and Polymorphism - Luca Cardelli, Peter Wegner](https://raw.githubusercontent.com/ChristopherBiscardi/papers/master/papers/on-understanding-types-data-abstraction-and-polymorphism.pdf)
   - Covers a fairly large field. ADTs, Quantification, Type Inference, Typed λ-Calculus.
   
-# Concurrent Data Access
+## Concurrent Data Access
 
 * [There is no Fork: an Abstraction for Efﬁcient, Concurrent, and Concise Data Access](https://raw.githubusercontent.com/ChristopherBiscardi/papers/master/papers/there-is-no-fork-an-abstraction-for-efficient-concurrent-and-concise-data-access)
   - Covers Haxl, A Facebook open source lib for concurrent data access and caching in Haskell
   
-# Recursion Schemes
+## Recursion Schemes
 
 [Functional Programming with Bananas, Lenses, Envelopes and Barbed Wire](https://raw.githubusercontent.com/ChristopherBiscardi/papers/master/papers/functional-programming-with-bananas-lenses-envelopes-and-barbed-wire.pdf)
 
